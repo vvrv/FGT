@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>vvrv</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+  <body>
+<div class= "container">
+      
+		<div class="nav">
+    	<h2>vvrv</h2>
+    	<ul>
+      	<li>sumthin</li>
+      	<li>wot</li>
+      	<li>asd</li>
+      	<li>ahahah</li>
+    	</ul>
+</div> 
+<div class="main">
+	<h1>vvrv site</h1>
+	<h3>idk something</h3>
+	<p>just some txt</p>
+  </div>
+
+</div>
+</body>
+</html>
